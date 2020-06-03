@@ -1,5 +1,5 @@
-# Hello World
-This is a Hello World example, written in Node.js using express, ejs, and MongoDB.
+# Coronet
+This is the repo for Coronet, the all-in-one Covid-19 application.
 
 ## Dependencies
 * node.js
@@ -10,7 +10,7 @@ This is a Hello World example, written in Node.js using express, ejs, and MongoD
 ## Installing
 
 ```
-git clone https://github.com/KePeterZ/helloworld.js
+git clone https://github.com/KePeterZ/coronet
 npm install
 ```
 
